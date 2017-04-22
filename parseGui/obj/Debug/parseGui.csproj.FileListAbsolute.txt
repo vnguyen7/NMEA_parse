@@ -1,0 +1,9 @@
+c:\users\vinh\documents\visual studio 2017\Projects\parseGui\parseGui\bin\Debug\parseGui.exe.config
+c:\users\vinh\documents\visual studio 2017\Projects\parseGui\parseGui\bin\Debug\parseGui.exe
+c:\users\vinh\documents\visual studio 2017\Projects\parseGui\parseGui\bin\Debug\parseGui.pdb
+c:\users\vinh\documents\visual studio 2017\Projects\parseGui\parseGui\obj\Debug\parseGui.csprojResolveAssemblyReference.cache
+c:\users\vinh\documents\visual studio 2017\Projects\parseGui\parseGui\obj\Debug\parseGui.Form1.resources
+c:\users\vinh\documents\visual studio 2017\Projects\parseGui\parseGui\obj\Debug\parseGui.Properties.Resources.resources
+c:\users\vinh\documents\visual studio 2017\Projects\parseGui\parseGui\obj\Debug\parseGui.csproj.GenerateResource.Cache
+c:\users\vinh\documents\visual studio 2017\Projects\parseGui\parseGui\obj\Debug\parseGui.exe
+c:\users\vinh\documents\visual studio 2017\Projects\parseGui\parseGui\obj\Debug\parseGui.pdb
